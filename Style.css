@@ -1,0 +1,71 @@
+.Mi{
+    color: red;
+    font: 30px bold;
+    display: inline-block;
+}
+div p{
+    color: rgb(120, 197, 5);
+    font: 30px bold;
+    display: inline-block;
+}
+span a{
+    float: right;
+    margin-right: 50px;
+    margin-top: 40px;
+    color: black;
+    text-decoration: none;
+}
+h1{
+    float: left;
+    margin-top: 40px;
+    font: 40px bold;
+}
+.white{
+    background-color: rgb(253, 254, 255);
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.Main{
+    background-image: url("Pics/triangles_pattern.png");
+    background-repeat: repeat;
+    height: 500px;
+}
+.Main p{
+    color: black;
+    font-size: 12px;
+    margin-left: 180px;
+}
+.Main h1{
+    margin: 80px 180px 0px;
+    display: inline-block;
+    
+}
+.Main h6{
+    margin: 0px;
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+img{
+    float: right;
+    width: 250px;
+    height: 350px;
+    margin: 80px 5px 50px;
+    position: relative;
+}
+.End{
+    margin-right: 180px;
+}
+.Arrow{
+    font-size: medium;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
