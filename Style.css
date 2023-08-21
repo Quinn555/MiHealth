@@ -73,6 +73,7 @@ img{
     position: relative;
     text-align: center;
     color: black;
+    margin-left: 15px;
 }
 .flex-col {
     display: flex;
@@ -84,8 +85,9 @@ img{
     align-items: center;
     
 }
-.Flex-gap{
-    display: flex;
-    align-content: space-between;
-    align-items: center;
+.img-margin{
+    margin-top: 80px;
+}
+.Right-end{
+    margin-right: 180px;
 }
